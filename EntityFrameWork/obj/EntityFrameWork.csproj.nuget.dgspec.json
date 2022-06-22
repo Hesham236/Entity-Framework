@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pro1\\source\\repos\\EntityFrameWork\\EntityFrameWork\\EntityFrameWork.csproj": {}
+    "E:\\Hesham\\Entity-Framework\\EntityFrameWork\\EntityFrameWork.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pro1\\source\\repos\\EntityFrameWork\\EntityFrameWork\\EntityFrameWork.csproj": {
+    "E:\\Hesham\\Entity-Framework\\EntityFrameWork\\EntityFrameWork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pro1\\source\\repos\\EntityFrameWork\\EntityFrameWork\\EntityFrameWork.csproj",
+        "projectUniqueName": "E:\\Hesham\\Entity-Framework\\EntityFrameWork\\EntityFrameWork.csproj",
         "projectName": "EntityFrameWork",
-        "projectPath": "C:\\Users\\Pro1\\source\\repos\\EntityFrameWork\\EntityFrameWork\\EntityFrameWork.csproj",
+        "projectPath": "E:\\Hesham\\Entity-Framework\\EntityFrameWork\\EntityFrameWork.csproj",
         "packagesPath": "C:\\Users\\Pro1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pro1\\source\\repos\\EntityFrameWork\\EntityFrameWork\\obj\\",
+        "outputPath": "E:\\Hesham\\Entity-Framework\\EntityFrameWork\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
